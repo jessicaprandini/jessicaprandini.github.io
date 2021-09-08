@@ -74,11 +74,6 @@ article > header > span + span {
     margin-left: 2px;
 }
 
-article > header > span + span::before {
-    content: '@';
-    margin-right: 4px;
-}
-
 article > header > span {
     color: #808080;
     font-size: 100%;
