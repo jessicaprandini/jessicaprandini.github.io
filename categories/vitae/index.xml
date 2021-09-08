@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>vitae on Jéssica Prandini - Blog</title>
-    <link>https://example.com/categories/vitae/</link>
+    <link>https://jessicaprandini.github.io/categories/vitae/</link>
     <description>Recent content in vitae on Jéssica Prandini - Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 28 Jul 2018 01:52:59 -0500</lastBuildDate><atom:link href="https://example.com/categories/vitae/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Jul 2018 01:52:59 -0500</lastBuildDate><atom:link href="https://jessicaprandini.github.io/categories/vitae/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Currículo</title>
-      <link>https://example.com/vitae/</link>
+      <link>https://jessicaprandini.github.io/vitae/</link>
       <pubDate>Sat, 28 Jul 2018 01:52:59 -0500</pubDate>
       
-      <guid>https://example.com/vitae/</guid>
+      <guid>https://jessicaprandini.github.io/vitae/</guid>
       <description></description>
     </item>
     
